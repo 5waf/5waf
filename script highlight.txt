@@ -18,7 +18,7 @@ local function createHighlightForPlayer(player)
 
     local highlight = Instance.new("Highlight")
     highlight.Adornee = character
-    highlight.FillColor = Color3.fromRGB(255, 255, 0) -- لون أصفر
+    highlight.FillColor = Color3.fromRGB(255, 255, 0) -- yellow color
     highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
     highlight.FillTransparency = 0.3
     highlight.OutlineTransparency = 0
